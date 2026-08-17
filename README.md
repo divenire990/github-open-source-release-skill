@@ -13,11 +13,9 @@
 
 ---
 
-## 核心发布工作流演示（离线示意图）
+## 核心发布工作流演示
 
 ![GitHub 开源发布工作流离线示意图](./assets/workflow-demo.gif)
-
-> *注：上述动图为离线流程示意动画（Offline workflow illustration — no live API calls），展示从只读审计到远端验证的标准六步发布闭环。*
 
 ---
 

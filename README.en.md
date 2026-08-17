@@ -17,8 +17,6 @@ Distilled from real-world open-source engineering practices, this skill is tailo
 
 ![GitHub Open Source Release Workflow Offline Illustration](./assets/workflow-demo.gif)
 
-> *Note: The animation above is an offline illustrative workflow diagram (`Offline workflow illustration — no live API calls`), depicting the standard 6-step release pipeline from read-only audit to remote verification.*
-
 ---
 
 ## Why This Skill?
