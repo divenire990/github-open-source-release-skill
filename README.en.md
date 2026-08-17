@@ -15,7 +15,7 @@ Distilled from real-world open-source engineering practices, this skill is tailo
 
 ## Release Workflow Demo
 
-__omp_shell("[GitHub Open Source Release Workflow](./assets/workflow-demo.gif)")
+![GitHub Open Source Release Workflow](./assets/workflow-demo.gif)
 
 ---
 

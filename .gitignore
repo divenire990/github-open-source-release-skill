@@ -46,4 +46,4 @@ Thumbs.db
 # Environment variables & secrets
 .env
 .env.*
-__omp_shell(".env.example")
+!.env.example

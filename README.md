@@ -15,7 +15,7 @@
 
 ## 核心发布工作流演示
 
-__omp_shell("[GitHub Open Source Release Workflow](./assets/workflow-demo.gif)")
+![GitHub 开源发布工作流](./assets/workflow-demo.gif)
 
 ---
 
